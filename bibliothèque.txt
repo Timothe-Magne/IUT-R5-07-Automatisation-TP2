@@ -1,1 +1,5 @@
 
+id: 123
+titre: Le seigneur des anneaux - tome 3 - Le Retour du Roi
+auteur: J.R.R. Tolkien
+anne: 1972
